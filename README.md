@@ -1,7 +1,4 @@
-from pathlib import Path
-
-readme = r"""# 👋 Hi, I'm Parv Arhatia
-
+# 👋 Hi, I'm Parv Arhatia
 ### 💻 Software Developer | DSA | Backend | System Design
 
 I’m a developer who enjoys **solving algorithmic problems, building software, and understanding how systems work under the hood**.
