@@ -171,7 +171,3 @@ I’m a developer who enjoys **solving algorithmic problems, building software, 
   <i>Always learning. Always building. 🚀</i>
 </p>
 """
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created: {path}")
