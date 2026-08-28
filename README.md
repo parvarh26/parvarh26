@@ -10,13 +10,13 @@ I’m a developer who enjoys **solving algorithmic problems, building software, 
 - 💡 I like turning complex problems into simple, efficient solutions
 
 ---
-
 ## 🧠 Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/u/parvarhatia_26/">
     <img src="https://img.shields.io/badge/LeetCode-parvarhatia__26-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/parvarh26">
     <img src="https://img.shields.io/badge/Codeforces-parvarh26-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
@@ -25,34 +25,34 @@ I’m a developer who enjoys **solving algorithmic problems, building software, 
 ### 🟠 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/parvarhatia_26?theme=dark&font=baloo&ext=heatmap" width="500" />
+  <a href="https://leetcode.com/u/parvarhatia_26/">
+    <img src="https://leetcard.jacoblin.cool/parvarhatia_26?theme=dark&font=baloo&ext=heatmap" width="500" />
+  </a>
 </p>
 
-| Metric | Stats |
-|---|---:|
-| Problems Solved | **198** |
-| Easy | **126** |
-| Medium | **58** |
-| Hard | **14** |
-| Contest Rating | **1433** |
-| Global Rank | **852,963** |
-| Badges | **2** |
-| Max Streak | **43 days** |
-| Active Days (last year) | **152** |
+<p align="center">
+  <b>198 Problems Solved</b> •
+  <b>1433 Contest Rating</b> •
+  <b>43 Day Max Streak</b> •
+  <b>152 Active Days</b>
+</p>
+
+---
 
 ### 🔵 Codeforces
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=parvarh26&theme=dark" width="500" />
+  <a href="https://codeforces.com/profile/parvarh26">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=parvarh26&theme=dark" width="500" />
+  </a>
 </p>
 
-| Metric | Stats |
-|---|---:|
-| Problems Solved | **52** |
-| Contest Rating | **1174** |
-| Current Rank | **Newbie** |
-| Problems Solved (last month) | **34** |
-| Max Streak | **10 days** |
+<p align="center">
+  <b>52 Problems Solved</b> •
+  <b>1174 Contest Rating</b> •
+  <b>Newbie</b> •
+  <b>34 Solved Last Month</b>
+</p>
 
 ---
 
